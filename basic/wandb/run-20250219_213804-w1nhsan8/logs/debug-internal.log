@@ -1,0 +1,16 @@
+{"time":"2025-02-19T21:38:04.828108-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/nickyoon/Documents/GitHub/LLM_Mastery/basic/wandb/run-20250219_213804-w1nhsan8/logs/debug-core.log"}
+{"time":"2025-02-19T21:38:04.941332-05:00","level":"INFO","msg":"created new stream","id":"w1nhsan8"}
+{"time":"2025-02-19T21:38:04.941656-05:00","level":"INFO","msg":"stream: started","id":"w1nhsan8"}
+{"time":"2025-02-19T21:38:04.941806-05:00","level":"INFO","msg":"handler: started","stream_id":"w1nhsan8"}
+{"time":"2025-02-19T21:38:04.942098-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"w1nhsan8"}
+{"time":"2025-02-19T21:38:04.942108-05:00","level":"INFO","msg":"sender: started","stream_id":"w1nhsan8"}
+{"time":"2025-02-19T21:38:05.07642-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-19T21:38:26.658055-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:38:26.66125-05:00","level":"INFO","msg":"stream: closing","id":"w1nhsan8"}
+{"time":"2025-02-19T21:38:26.66149-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-19T21:38:26.662198-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-19T21:38:27.022066-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-19T21:38:27.165589-05:00","level":"INFO","msg":"sender: closed","stream_id":"w1nhsan8"}
+{"time":"2025-02-19T21:38:27.165568-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"w1nhsan8"}
+{"time":"2025-02-19T21:38:27.165859-05:00","level":"INFO","msg":"handler: closed","stream_id":"w1nhsan8"}
+{"time":"2025-02-19T21:38:27.166081-05:00","level":"INFO","msg":"stream: closed","id":"w1nhsan8"}

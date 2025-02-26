@@ -1,0 +1,137 @@
+{"time":"2025-02-19T21:39:32.992868-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/nickyoon/Documents/GitHub/LLM_Mastery/basic/wandb/run-20250219_213932-70k9h3xs/logs/debug-core.log"}
+{"time":"2025-02-19T21:39:33.107593-05:00","level":"INFO","msg":"created new stream","id":"70k9h3xs"}
+{"time":"2025-02-19T21:39:33.107818-05:00","level":"INFO","msg":"stream: started","id":"70k9h3xs"}
+{"time":"2025-02-19T21:39:33.107802-05:00","level":"INFO","msg":"handler: started","stream_id":"70k9h3xs"}
+{"time":"2025-02-19T21:39:33.108055-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"70k9h3xs"}
+{"time":"2025-02-19T21:39:33.108065-05:00","level":"INFO","msg":"sender: started","stream_id":"70k9h3xs"}
+{"time":"2025-02-19T21:39:33.238566-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-19T21:39:33.443314-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:39:37.587823-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:42:03.928075-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:42:03.961851-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:42:05.064664-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:42:23.265493-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:42:49.696486-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:42:57.462085-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:42:57.484059-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:44:14.241378-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:44:14.283847-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:44:18.258235-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:44:19.789067-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:44:23.927976-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:44:23.946654-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:44:26.237028-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:44:26.240206-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:44:38.268237-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:44:38.654416-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:44:41.274439-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:44:41.497776-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:44:55.149803-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:44:55.27601-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:45:06.509064-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:45:06.512574-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T21:45:39.242534-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-19T21:45:39.731017-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-19T22:15:38.041294-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:56979->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-19T23:54:31.963963-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:61844->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T00:55:37.091272-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:61997->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T01:27:29.862675-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:62260->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T01:44:12.925508-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:62386->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T03:14:00.850867-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:62537->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T04:59:33.416627-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:63213->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T05:48:15.771323-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:63391->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T06:00:45.652402-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:63508->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T06:17:43.535312-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:63857->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T06:51:59.441686-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:64054->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T07:16:17.487903-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:64195->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T07:30:56.133358-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T07:30:58.519061-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T07:31:02.658357-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T07:31:11.115735-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T07:31:23.163803-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-20T07:31:29.143018-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T07:48:24.274947-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:64784->35.186.228.49:443: read: can't assign requested address"}
+{"time":"2025-02-20T07:48:28.656696-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T07:48:37.70154-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T07:48:48.933911-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T07:48:55.694892-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T09:20:55.952896-05:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-02-20T10:56:16.691295-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-20T12:17:42.686536-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.164:59233->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T15:33:48.708343-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T15:33:50.723753-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T15:50:51.58511-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.164:58024->35.186.228.49:443: read: can't assign requested address"}
+{"time":"2025-02-20T15:50:53.867887-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T15:50:54.771737-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T15:50:58.183678-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T15:51:03.535075-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T15:51:07.734218-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T15:51:22.648716-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T15:56:53.46761-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-20T16:48:14.138015-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:60395->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T17:32:50.894997-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:60571->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T18:32:39.321798-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:61036->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T19:26:32.73538-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:55544->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T19:44:54.760317-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:56126->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T20:15:35.10745-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:56637->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T21:00:04.723448-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:56845->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T21:16:35.8434-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:57514->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T22:15:07.504899-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:57702->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T22:42:04.64044-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": read tcp 10.88.111.13:60177->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-20T23:18:40.891178-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:58011->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T00:19:39.377247-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:60610->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T00:37:34.542734-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:60933->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T01:20:36.116274-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:61234->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T02:21:35.952075-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:61375->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T03:22:46.731103-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:61686->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T04:00:49.92297-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:62382->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T04:19:02.60061-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:62675->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T05:24:49.670105-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:62977->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T07:26:46.738922-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:63701->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T08:01:02.725713-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:64024->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T08:17:17.176714-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:64338->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T08:50:02.218972-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:64754->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T09:05:14.989605-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:65184->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T09:28:48.870647-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:49185->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T10:29:47.116332-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:49503->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T10:40:39.666917-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:49795->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T10:53:37.092358-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:50115->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T11:30:47.037309-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:50494->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T11:47:14.303842-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:51105->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T12:23:52.683907-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:51936->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T13:24:52.61049-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:52708->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T14:33:46.539581-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:53890->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T15:34:43.9238-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:54485->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T16:34:16.55106-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:54763->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T17:26:20.413369-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:55179->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T18:11:19.57922-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:60272->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T18:36:39.671087-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:61739->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T18:50:51.190696-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:62556->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T19:15:07.341114-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:62853->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T19:28:29.391542-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:63128->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T20:05:34.056738-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:64253->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T20:38:22.185743-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:64560->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T20:55:55.537406-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:64755->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T21:13:14.170061-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:65049->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T21:39:27.163326-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:65160->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T22:40:25.733563-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:65363->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T23:11:06.749193-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:49272->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-21T23:41:31.160446-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:49563->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T00:23:47.006151-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:49980->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T00:41:06.019636-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:50279->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T01:19:46.429917-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:50564->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T01:19:52.928276-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": read tcp 10.88.111.13:51134->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T01:53:53.186958-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:51212->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T01:54:01.694783-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nickyoon89-miss-to-mrs-box/llm1/70k9h3xs/file_stream\": read tcp 10.88.111.13:51446->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T03:09:19.86896-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:51534->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T04:14:37.13068-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:54725->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T04:35:44.182958-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:55258->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T06:36:39.336702-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:55486->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T07:37:41.009223-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:55871->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T08:13:15.748808-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:56209->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T09:04:40.696377-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:56540->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T09:37:25.227001-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:56759->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T09:54:39.809213-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:57116->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T10:29:11.692219-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:57384->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T10:55:13.002069-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:57505->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-22T11:26:58.653147-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.88.111.13:57882->35.186.228.49:443: read: connection reset by peer"}
