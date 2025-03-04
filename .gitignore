@@ -2,3 +2,5 @@ basic/wiki.txt
 basic/encoded_data.pt
 basic/models/llm1.pt
 basic/models/llm2.pt
+/basic/.ipynb_checkpoints
+/basic/wandb
