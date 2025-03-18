@@ -7,3 +7,4 @@ basic/models/llm2.pt
 .ipynb_checkpoints/small_llm_official-checkpoint.ipynb
 Untitled.ipynb
 /.ipynb_checkpoints
+/basic/.ipynb_checkpoints
