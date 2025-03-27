@@ -8,3 +8,6 @@ basic/models/llm2.pt
 Untitled.ipynb
 /.ipynb_checkpoints
 /basic/.ipynb_checkpoints
+/align/.ipynb_checkpoints
+*.pt
+*.arrow
