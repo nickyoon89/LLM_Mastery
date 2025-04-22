@@ -11,3 +11,8 @@ Untitled.ipynb
 /align/.ipynb_checkpoints
 *.pt
 *.arrow
+*.log
+*.wandb
+/wandb
+/align/wandb
+/align/__pycache__
