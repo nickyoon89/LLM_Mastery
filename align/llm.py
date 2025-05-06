@@ -150,7 +150,7 @@ class Attention(nn.Module):
     def __init__(self, args: ModelArgs):
         super().__init__()
 
-        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        device = torch.device("cuda" if torch.cuda.is_available() else "mps")
 
         self.n_kv_heads = args.n_heads if args.n_kv_heads is None else args.n_kv_heads # we keep all numbers of heads the same
         assert args.n_heads % self.n_kv_heads == 0
@@ -487,7 +487,8 @@ if __name__ == "__main__":
     temp = args.temp
     topk=args.topk
 
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    # device = torch.device("cuda" if torch.cuda.is_available() else "mps")
+    device = torch.device("mps")
     
     tokenizer_path = "tokenizers/tok16384"
     model_path = "./models/"
@@ -543,7 +544,7 @@ if __name__ == "__main__":
     model.load_state_dict(new_dict)
     if device.type == 'cuda':
         model = model.to(torch.bfloat16)
-        model = model.to(device)
+    model = model.to(device)
     model.eval()
 
     model_size = sum(t.numel() for t in model.parameters())
